@@ -1,4 +1,4 @@
-# CVLearn#1 - Semantic Segmentation Using MobileNetV2 👁️
+# CVLearn#1 - Semantic Segmentation Using MobileNetV2
 Kaggle link: [CVLearn#1 - Semantic Segmentation w/ MobileNetV2](https://www.kaggle.com/code/dodat12/cvlearn-1-semantic-segmentation-w-mobilenetv2)
 ## 🕹️ Data Preprocessing
 Using pet dataset from The Oxford-IIIT Pet Dataset: https://www.robots.ox.ac.uk/~vgg/data/pets/
